@@ -1,40 +1,26 @@
-# Ping检测网站
+# WebPingMaster
 
-#### Description
-🚀 一个强大的网站测速工具，支持：
-- 全球网站Ping测试
-- IP地理位置可视化
-- 响应时间分析
-- 实时地图展示
+🚀 一个现代化的网站测速与IP分析工具
 
-#### Software Architecture
-Software architecture description
+## 功能特点
 
-#### Installation
+- ⚡ 实时网站Ping测速
+- 🌍 IP地理位置可视化展示
+- 📊 详细的响应时间分析（最快/最慢/平均）
+- 🗺️ 基于Leaflet的交互式地图展示
+- 📱 响应式设计，支持移动端访问
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 技术栈
 
-#### Instructions
+- 前端：HTML5, CSS3, JavaScript
+- 地图：Leaflet.js
+- 后端：PHP
+- 接口：IP地理位置API
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 在线演示
 
-#### Contribution
+[在线体验地址](您的演示网址)
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+## 快速开始
 
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1. 克隆仓库
